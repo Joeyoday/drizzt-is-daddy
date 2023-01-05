@@ -1,0 +1,27 @@
+body{
+	background-color: darkorchid;
+}
+h1{
+	font-size: 30px;
+	color: paleturquoise;
+}
+
+h2{
+	font-size: 20px;
+	color: chartreuse;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase {
+	color: orchid;
+}
+span{
+	color: firebrick;
+}
