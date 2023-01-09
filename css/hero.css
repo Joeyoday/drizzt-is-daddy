@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+	font-family: dotgothic16;
+	line-height: 20px;
+}
+
+header{
+	background-color: darkred;
+	border-block: 6px solid black;
+	border-left: 6px solid black;
+	border-right: 6px solid black;
+	text-align: center;
+	padding-top: 20px;
+}
+
+h1, h2{
+	font-family: 'DotGothic16', sans-serif;
+}
+
+header h1{
+	color: white;
+	font-size: 69px;
+	font-family: fantasy;
+
+}
+
+header img{
+	width: 200px;
+	border-radius: 400px;
+	border: 6px solid black;
+
+}
+
+main{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+h2{
+	font-size: 30px;
+	color: burlywood;
+}
+
+a{
+	color: burlywood;
+}
+a:hover{
+	background-color: burlywood;
+	color: black;
+	font-size: 18px;
+	font-family: fantasy;
+}
+
+footer{
+		background-color: darkred;
+		color: white;
+	border-block: 6px solid black;
+	border-left: 6px solid black;
+	border-right: 6px solid black;
+	text-align: center;
+	padding-top: 0px;
+}
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: orange;
+	font-style: italic;
+	margin-top: 0px;
+}
